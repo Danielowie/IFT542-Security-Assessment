@@ -1,0 +1,26 @@
+{"ts":"2026-08-10T22:15:03+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:04+00:00","event":"login_failed","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:08+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:09+00:00","event":"login_failed","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:15+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:16+00:00","event":"login_failed","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:20+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:21+00:00","event":"login_failed","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:25+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:26+00:00","event":"login_failed","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:15:30+00:00","event":"account_locked","subject":"student@example.test","ip":"127.0.0.1","detail":{"minutes":15}}
+{"ts":"2026-08-10T22:16:00+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:16:01+00:00","event":"login_denied_locked","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:17:35+00:00","event":"login_attempted","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:17:36+00:00","event":"login_success","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:18:00+00:00","event":"authorization_attempted","subject":"2021-1-84189CF","ip":"127.0.0.1","detail":{"action":"access_admin"}}
+{"ts":"2026-08-10T22:18:01+00:00","event":"authorization_denied","subject":"student@example.test","ip":"127.0.0.1","detail":{"required_role":"admin"}}
+{"ts":"2026-08-10T22:19:15+00:00","event":"validation_rejected","subject":"student@example.test","ip":"127.0.0.1","detail":{"field":"bio","reason":"length_exceeded"}}
+{"ts":"2026-08-10T22:20:00+00:00","event":"csrf_token_missing","subject":"student@example.test","ip":"127.0.0.1","detail":{"form":"course_registration"}}
+{"ts":"2026-08-10T22:21:30+00:00","event":"ssrf_blocked","subject":"student@example.test","ip":"127.0.0.1","detail":{"url":"http://169.254.169.254/","error":"Only https URLs are permitted"}}
+{"ts":"2026-08-10T22:22:00+00:00","event":"file_upload_rejected","subject":"student@example.test","ip":"127.0.0.1","detail":{"filename":"malware.exe","reason":"extension_not_allowed","mime_type":"application/x-msdownload"}}
+{"ts":"2026-08-10T22:23:45+00:00","event":"logout","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:24:00+00:00","event":"login_attempted","subject":"admin@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:24:02+00:00","event":"login_success","subject":"admin@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:25:00+00:00","event":"password_reset_requested","subject":"student@example.test","ip":"127.0.0.1","detail":{}}
+{"ts":"2026-08-10T22:30:00+00:00","event":"password_reset_confirmed","subject":"student@example.test","ip":"127.0.0.1","detail":{}}

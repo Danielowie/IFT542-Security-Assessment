@@ -1,0 +1,6 @@
+.env 
+storage/logs/ 
+storage/uploads/ 
+*.docx 
+.DS_Store 
+__pycache__/ 
