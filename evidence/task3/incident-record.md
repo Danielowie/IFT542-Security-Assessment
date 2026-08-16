@@ -352,9 +352,3 @@ This simulated incident demonstrates that the IFT542 Student Registration system
 
 The system is **resilient** to brute force attacks and provides an **audit trail** for forensic analysis.
 
----
-
-**Incident Closed:** 2026-08-11 14:48 UTC  
-**Reported By:** IFT542 Security Test Suite  
-**Verified By:** Manual investigation (this record)  
-**Approved:** Dr. Bashir (when ready)
