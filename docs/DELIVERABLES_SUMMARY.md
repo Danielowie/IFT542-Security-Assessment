@@ -549,14 +549,6 @@ This practical assignment demonstrates **comprehensive understanding** of:
 
 ---
 
-**Submitted by:** Matric No. 2021/1/84189CF  
-**Date:** August 15, 2026  
-**Lecturer:** Dr. Bashir  
-**Course:** IFT 542 - Web Application Security  
-**Status:** ✓ COMPLETE & READY FOR EVALUATION
-
----
-
 ## QUICK LINKS TO KEY DOCUMENTS
 
 | Document | Purpose | Location |
