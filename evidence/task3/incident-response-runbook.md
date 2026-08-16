@@ -10,7 +10,6 @@
 - **Security Administrator:** Reviews logs, initiates response
 - **Database Administrator:** Manages backups, transaction rollback
 - **System Administrator:** Controls server access, firewall rules
-- **Application Owner (Dr. Bashir):** Stakeholder notification
 
 ### Monitoring & Alerting
 - ✅ Security event logging enabled (`storage/logs/security.log`)
