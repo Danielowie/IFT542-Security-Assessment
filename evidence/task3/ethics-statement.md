@@ -1,10 +1,9 @@
 # Ethics Statement: IFT542 Practical Assignment
 
-**Student Name:** Owie  
+**Student Name:** Daniel Dan O 
 **Matric Number:** 2021-1-84189CF  
 **Course:** IFT 542 Web Application Security  
-**Institution:** Federal University of Technology, Minna  
-**Submission Date:** 2026-08-11
+**Institution:** Federal University of Technology, Minna
 
 ---
 
