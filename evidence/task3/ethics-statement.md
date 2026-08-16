@@ -218,10 +218,3 @@ No external connectivity is required or established at any point.
 ---
 
 **This ethics statement certifies that the IFT542 practical assignment has been completed in accordance with the highest standards of academic integrity and professional ethics.**
-
----
-
-**Document Version:** 1.0  
-**Document Date:** 2026-08-11  
-**Assignment:** IFT 542 Practical Assignment  
-**Supervisor:** Dr. Bashir
